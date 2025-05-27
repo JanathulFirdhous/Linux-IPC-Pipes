@@ -103,8 +103,8 @@ Testing the C Program for the desired output.
 
 
 ## OUTPUT
-![alt text](<3 1.png>)
 
+![alt text](<Screenshot From 2025-05-27 07-33-23.png>)
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
 ```
@@ -199,7 +199,7 @@ Testing the C Program for the desired output.
 
 ## OUTPUT
 
+![alt text](<Screenshot From 2025-05-27 07-35-46.png>)
 
-![alt text](<3 2.png>)
 # RESULT:
 The program is executed successfully.
